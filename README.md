@@ -1,11 +1,11 @@
 # Bengaluru House Price Prediction 🏠
 
-A supervised machine learning project using Linear Regression to predict housing prices in Bengaluru based on various features such as location, area, number of bedrooms, and bathrooms.
+A supervised machine learning project to predict housing prices in Bengaluru based on various features such as location, area, number of bedrooms, and bathrooms.
 Focusing on Exploratory data analysis (EDA) using Python on large datasets, identifying correlations, handling missing values, managing outliers, encoding techniques, feature selection, model evaluation and visualising insights to improve model accuracy.
 
 
 ## 📌 Problem Statement
-The objective is to predict house prices in Bengaluru using clean and processed data with a Linear Regression model, improving the accuracy and interpretability of the results.
+The objective is to predict house prices in Bengaluru using clean and processed data, improving the accuracy and interpretability of the results.
 
 ## 📊 Dataset
 - Source: [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets)
