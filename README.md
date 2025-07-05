@@ -8,7 +8,7 @@ Focusing on Exploratory data analysis (EDA) using Python on large datasets, iden
 The objective is to predict house prices in Bengaluru using clean and processed data, improving the accuracy and interpretability of the results.
 
 ## 📊 Dataset
-- Source: ([Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/rishabhr717/bengaluru-house-datacsv))
+- Source: [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets/rishabhr717/bengaluru-house-datacsv)
 - Shape: (13320, 9)
 - Features: Location, Size, Total Sqft, Bath, Balcony, Price, etc.
 
