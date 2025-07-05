@@ -5,7 +5,7 @@ Focusing on Exploratory data analysis (EDA) using Python on large datasets, iden
 
 
 ## 📌 Problem Statement
-The objective is to predict house prices in Bengaluru using clean and processed data, improving the accuracy and interpretability of the results.
+In the real estate market, accurately predicting house prices is a challenge due to the dynamic nature of property values influenced by multiple factors such as location, size, and number of rooms. The growing availability of housing data offers an opportunity to apply machine learning techniques to derive insights from past sales data. Buyers and sellers both face difficulty for making decisions as traditional pricing methods are time-consuming and inconsistent. This project aims to estimate the selling price of a house based on its features, using a supervised machine learning model. The objective is to provide a solution that can assist real estate agents, property investors and homeowners.
 
 ## 📊 Dataset
 - Source: [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets/rishabhr717/bengaluru-house-datacsv)
